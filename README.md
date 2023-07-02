@@ -25,9 +25,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
+- example 1 is picture of wireshark showing all the traffic moving between the network
+- example 2 shows that you can filter what traffic you see by entering network protocols 
+- example 3 shows firewall settings in azure and the ability to block unwanted newtwork traffic
 - Step 4
 
 <h2>Actions and Observations</h2>
